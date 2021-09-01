@@ -1,0 +1,20 @@
+Algoritma 1 FPB
+- Jika n = 0, return nilai m sebagai hasil dan stop. Jika tidak ke step 2
+- Bagi nilai m dengan n, masukan nilai sisanya ke r
+- masukan nilai n ke m dan nilai r ke n. Kembali ke step 1
+
+Pseucode 
+
+- While n ≠ m mod n 
+- r <- m mod n
+- m <- n
+- n <- r
+- return m
+
+
+Algoritma KPK 
+- membaca bilangan 1 dan 2 
+- Jika bil 1 < 2 atau bil2 <2, maka akan mengulangi baris 1
+- Jika bil 1 = 2 cetak KPK
+
+ 
